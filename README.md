@@ -7,24 +7,18 @@
 <h3 align="center">🇳🇵 Nepali Developer Living in Japan 🇯🇵</h3>
 
 ---
-
 ## 🚀 About Me
-
 - 💻 Java Backend Developer
 - 🌱 Currently learning **Spring Boot, REST APIs, Spring Security**
 - 🗄️ Database: **Oracle SQL**
 - 🎨 Frontend: **HTML, CSS, JavaScript, Thymeleaf**
 - 🔧 Tools: **Git, GitHub, IntelliJ IDEA, VS Code**
 - 🎯 Goal: Become a Professional Full Stack Java Developer
-
 ---
 
 ## 🛠 Tech Stack
-
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,maven,idea,vscode"/>
-
 </p>
 
 <p align="center">
@@ -32,38 +26,19 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=saga07-stack&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saga07-stack&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=saga07-stack&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saga07-stack&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -79,7 +54,7 @@
 
 <p align="center">
 
-<a href="mailto:sharma.sagar@craftinf.co.jp">
+<a href="sharma.sagar@craftinf.co.jp">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -96,13 +71,10 @@
 <img src="https://komarev.com/ghpvc/?username=saga07-stack&style=for-the-badge&color=blue"/>
 
 </p>
-
 ---
-
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
 </h3>
-
 <p align="center">
 <i>"Code • Learn • Build • Repeat 🚀"</i>
 </p>
