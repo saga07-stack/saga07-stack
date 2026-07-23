@@ -21,12 +21,7 @@
 <img src="https://skillicons.dev/icons?i=java,spring,html,css,js,git,github,maven,idea,vscode" height="45"/>
 </p>
 
-### 📊 GitHub
 
-<p align="center">
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=saga07-stack&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saga07-stack&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
 <p align="center">
 <img height="155" src="https://streak-stats.demolab.com?user=saga07-stack&theme=tokyonight&hide_border=true"/>
