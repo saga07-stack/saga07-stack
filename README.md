@@ -5,8 +5,6 @@
 </p>
 
 <h3 align="center">🇳🇵 Nepali Developer Living in Japan 🇯🇵</h3>
-
----
 ## 🚀 About Me
 - 💻 Java Backend Developer
 - 🌱 Currently learning **Spring Boot, REST APIs, Spring Security**
@@ -25,15 +23,6 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
----
-## 📊 GitHub Stats
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saga07-stack&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saga07-stack&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🔥 GitHub Streak
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=saga07-stack&theme=tokyonight&hide_border=true"/>
@@ -47,8 +36,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=saga07-stack&theme=tokyo-night"/>
 
 </p>
-
----
 
 ## 📫 Contact
 
@@ -64,14 +51,11 @@
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=saga07-stack&style=for-the-badge&color=blue"/>
 
 </p>
----
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
 </h3>
